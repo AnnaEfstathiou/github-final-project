@@ -10,4 +10,4 @@ Input:
 
 Output:
 
-   - simple interest = p*t*r
+   - simple interest = $p\times$t\times$r
